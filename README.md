@@ -155,5 +155,5 @@ This repository is licensed under the  **MIT License**. See the LICENSE file for
 ## 📞 Connect with Me
 
 
--   **GitHub**:  [RohitPithani026](shivam-pawar-7217)
--   **Twitter (X)**:  [@rohitpithani13](@pawar_shiv59037)
+-   **GitHub**:  [RShivam-Pawar](shivam-pawar-7217)
+-   **Twitter (X)**:  [@Shivam-Pawar](@pawar_shiv59037)
